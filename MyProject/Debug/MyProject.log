@@ -1,1 +1,6 @@
-﻿LINK : fatal error LNK1168: C:\Users\LG\Desktop\HAN\2021\2학기\C프로그래밍II\텀프로젝트\MyProject\Debug\MyProject.exe을(를) 쓰기용으로 열 수 없습니다.
+﻿  termproject.c
+C:\Users\LG\Desktop\HAN\2021\2학기\C프로그래밍II\텀프로젝트\MyProject\MyProject\termproject.c(124,13): warning C4102: 'defalut': 참조되지 않은 레이블입니다.
+C:\Users\LG\Desktop\HAN\2021\2학기\C프로그래밍II\텀프로젝트\MyProject\MyProject\termproject.c(529,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LG\Desktop\HAN\2021\2학기\C프로그래밍II\텀프로젝트\MyProject\MyProject\termproject.c(608,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LG\Desktop\HAN\2021\2학기\C프로그래밍II\텀프로젝트\MyProject\MyProject\termproject.c(662,6): warning C4101: 'rd' :참조되지 않은 지역 변수입니다.
+  MyProject.vcxproj -> C:\Users\LG\Desktop\HAN\2021\2학기\C프로그래밍II\텀프로젝트\MyProject\Debug\MyProject.exe
